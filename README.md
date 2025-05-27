@@ -1,4 +1,4 @@
-# semester1_portfolio
+# myCSportfolio
 ### Project 1: Character Generator Game (Bears Players)
 **Summary**: This program allows users to respond to some fun questions about who they are as a person. 
 This will take them down a branch that eventually gives them a player they can resonate with as a result.
