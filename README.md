@@ -18,7 +18,16 @@ Each program considers the answers given by the user and qualifies them in a res
 - See what number is biggest in a list
 - Find your grade based on a score
 
-### Project 3: Login Interface
+### Project 3: AP Create Task
+**Summary**: This program enables users to find an NFL team that they can root for
+The program prompts the user with their location and finds a regional team
+
+**Key Features**: 
+- All 32 NFL teams included
+- Learn more about any team
+- Interactive with plenty of imagery
+
+### Project 4: Login Interface
 **Summary**: This program mimics the login screens of today that we all know and love.
 The programs asks the user for the correct password and username, and grants access based on the response given. 
 
@@ -27,7 +36,7 @@ The programs asks the user for the correct password and username, and grants acc
 - Security from those who don't know the password
 - Speedy login process
 
-### Project 4: Semi-Custom Madlib
+### Project 5: Semi-Custom Madlib
 **Summary**: This program creates a funny madlib for the user based on how they want to formulate the custom sentences
 The program records their responses and prints a silly final story
 
@@ -36,7 +45,7 @@ The program records their responses and prints a silly final story
 - A hilarious storyline
 - Plethora of outcomes/possible sentences
 
-### Project 5: Pokemon Game
+### Project 6: Pokemon Game
 **Summary**: This program is a feature game of the popular Pokemon charizard
 The game enables users to level through Charizard from his base Charmander based on completed activities
 
@@ -44,3 +53,12 @@ The game enables users to level through Charizard from his base Charmander based
 - Many ways to level up
 - A level tracker and evolution tracker
 - A variety of ways to play the game
+
+### Project 7: Slot Machine
+**Summary**: This program provides a simplistic, low-stakes slot machine game
+The program asks the user to spin by wagering their tokens and keeps track of their winnings
+
+**Key Features**: 
+- Cool slot symbols
+- Many winning combinations
+- Simple interface, easy to understand
